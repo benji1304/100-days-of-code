@@ -12,9 +12,9 @@ Lots of inspiration taken from following Medium blog
 
 https://medium.freecodecamp.org/how-i-went-from-newbie-to-software-engineer-in-9-months-while-working-full-time-460bd8485847
 
-Course|	Site|	URL
----|---|---|---
-CS101 Introduction to Computer Science |	Udacity|https://classroom.udacity.com/courses/cs101
+|Course|Site|URL|
+|---|---|---|
+|CS101 Introduction to Computer Science |Udacity|https://classroom.udacity.com/courses/cs101
 CS50 Introduction to Computern Science|	EdEx|	https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/course/
 FreeCodeCamp Front End|	FreeCodeCamp|	
 Codecademy Javascript|	Codecademy|	https://www.codecademy.com/courses/learn-javascript-functions/projects/sleep-debt-calculator?course_redirect=introduction-to-javascript
