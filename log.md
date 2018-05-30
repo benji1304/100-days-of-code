@@ -38,3 +38,19 @@ Need to stick to learning plan, and trying to learn one thing at a time. Don't g
 138 calendar days until redundancy
 
 97 working days until redundancy
+
+### Day 2: 30th May 2018
+
+**Today's Progress**:
+
+Finished Lesson 5, including while, recursion(factorial), break and multiple assignments. 
+
+Started Lesson 6, a problem set. Work through more tomorrow.
+
+** To Do / Tomorrow **
+
+Read more on recursion here:
+
+https://discussions.udacity.com/t/python-101-unit-6-yet-another-attempt-to-explain-recursion/83570
+
+Finish Lesson 6 : Problem Set
